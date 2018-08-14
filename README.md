@@ -11,11 +11,16 @@
    ```bash
    git clone https://github.com/davidgardenier/basic_linux_and_coding.git
    ```
-2. Run the following
+2. If a student, run the following
    ```bash
    sh ./basic_linux_and_coding/SETUP.sh
+   ```
+   If an instructor run
+   ```bash
+   sh ./basic_linux_and_coding/SETUP.sh instructor
    ```
 
 ## Credits
 Based partially on materials from
-* [Asterics and Obelics School 2018](https://indico.in2p3.fr/event/16864/)
+* Introduction to programming for astronomers (Thijs Coenen & Folkert Huizenga)
+* Asterics and Obelics School 2018
