@@ -15,12 +15,13 @@
    ```bash
    sh ./basic_linux_and_coding/SETUP.sh
    ```
-   If an instructor run
+   If an instructor, run
    ```bash
    sh ./basic_linux_and_coding/SETUP.sh instructor
    ```
 
 ## Credits
-Based partially on materials from
+Based partially on material from
 * Introduction to programming for astronomers (Thijs Coenen & Folkert Huizenga)
+* Insight in Python (David Gardenier & Leon Oostrum)
 * Asterics and Obelics School 2018
