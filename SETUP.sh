@@ -1,4 +1,3 @@
-#!/bin/bash
 # Change directories
 cd ./basic_linux_and_coding
 # Create a virtual environment
