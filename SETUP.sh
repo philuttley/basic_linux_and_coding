@@ -1,5 +1,3 @@
-# Change directories
-cd ./basic_linux_and_coding
 # Create a virtual environment
 python3 -m venv ./course-env
 # Activate the virtual environment
