@@ -19,13 +19,13 @@
 
     If installing Python in the bash shell, try following these steps:
 
-        * You can check which version of Python you have by running `python --version` or `python3 --version`. If either of these give a python version >=3.6 you're good to go to the next step.
-        * If the step above isn't working, try running these commands before checking the python version again:
-        ```bash
-        sudo apt-get update
-        sudo apt-get install python3-venv
-        sudo apt-get install pip3
-        ```
+    * You can check which version of Python you have by running `python --version` or `python3 --version`. If either of these give a python version >=3.6 you're good to go to the next step.
+    * If the step above isn't working, try running these commands before checking the python version again:
+    ```bash
+    sudo apt-get update
+    sudo apt-get install python3-venv
+    sudo apt-get install pip3
+    ```
 
     If installing Python natively on Windows, try installing the latest Windows executable installer from [this page](https://www.python.org/downloads/windows/)
 
