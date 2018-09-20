@@ -1,8 +1,8 @@
 """Code timed to run for x seconds."""
 import time
 
-
-def run(seconds=30):
+@profile
+def run(seconds=10):
     """Run a program for a number of seconds."""
     time.sleep(seconds)
 
