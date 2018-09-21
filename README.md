@@ -44,6 +44,7 @@
 
 ## Credits
 Based partially on material from
-* Introduction to programming for astronomers (Thijs Coenen & Folkert Huizenga)
-* Insight in Python (David Gardenier & Leon Oostrum)
+* Introduction to programming for astronomers by Thijs Coenen & Folkert Huizenga
+* Insight in Python tutorial by David Gardenier & Leon Oostrum
 * Asterics and Obelics School 2018
+* 'Receiving Credit for Research Software' session at EWASS2018
