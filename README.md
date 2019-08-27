@@ -43,7 +43,6 @@
    cd ./basic_linux_and_coding; sh SETUP.sh instructor
    ```
    If it's not working, read what the `SETUP.sh` script is acutally doing, and go through the lines step by step.
-
 	* If you are using a Python distribution, most packages will already be included, but you may need to install RISE so that you can display the lecture slides in presentation form via a Jupyter notebook. See the following to install: https://rise.readthedocs.io/en/maint-5.5/installation.html, 
 	e.g. for Anaconda use: conda install -c conda-forge rise
 and use the new button on the right of the Jupyter notebook toolbar to see a notebook with slides in the presentation format.
