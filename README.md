@@ -47,7 +47,9 @@
    
 * If you are using a Python distribution, most packages will already be included, but you may need to install RISE so that you can display the lecture slides in presentation form via a Jupyter notebook. See the following to install: https://rise.readthedocs.io/en/maint-5.5/installation.html, 
 	e.g. for Anaconda use: 
+	
 	```conda install -c conda-forge rise```
+	
 and use the new button on the right of the Jupyter notebook toolbar to see a notebook with slides in the presentation format.
 
 
