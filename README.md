@@ -34,7 +34,8 @@
    ```bash
    git clone https://github.com/philuttley/basic_linux_and_coding.git
    ```
-4. 	* If using the basic Python installation, you will need to install several additional Python modules:If a student, run the following:
+4. 	Finally, install additional required Python modules:
+	* If using the basic Python installation you will need to install a number of extra modules. If a student, run the following:
    ```bash
    cd ./basic_linux_and_coding; sh SETUP.sh
    ```
