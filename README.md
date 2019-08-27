@@ -1,8 +1,8 @@
 # Basic Linux and Coding
 
 ## Teachers
-* David Gardenier
-* Christian Ginski
+* Phil Uttley
+* Dimitris Kantzas
 
 ## Installing course software
 1. Install a Bash shell.
@@ -12,10 +12,12 @@
     echo 'export HOME=/mnt/c/Users/Foo; cd $HOME' >> ~/.bashrc
     ```
     * If using Windows 8, or if you can't get the bash shell working on Windows 10, you may want to go for a Virtual Box instead. This will install a complete virtual operating system within windows. Try following [this guide](https://itsfoss.com/install-linux-in-virtualbox/) for that. Using a LTS version of Ubuntu if possible, preferably Ubuntu 18.04.
+    * An alternative possibility for running bash under Windows: go to Datanose -> Software, and download and install VMWare Workstation Player (requires 64-bit processor and 64-bit host operating system), then as guest operating system use a Linux system such as Ubuntu/RedHat/Fedora etc. Note: this approach has not yet been tested.
 
 2. Install Python>=3.6
-    * If using Mac or Linux this should already be installed.
-    * If using Windows, you can choose to either install Python within the bash shell, or install Python natively on Windows.
+    * If using Mac or Linux basic Python should already be installed...
+    * However, an easy option which includes all the main Python packages (but takes more memory) is to install a Python distribution such as Anaconda (https://www.anaconda.com/distribution/, can be installed on Mac, Windows or Linux). 
+    * If using Windows, you can also choose to either install Python within the bash shell, or install Python natively on Windows.
 
     If installing Python in the bash shell, try following these steps:
     * You can check which version of Python you have by running `python --version` or `python3 --version`. If either of these give a python version >=3.6 you're good to go to the next step.
