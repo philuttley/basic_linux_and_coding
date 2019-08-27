@@ -32,9 +32,9 @@
 
 3. Ensure you know where in the file system you are, whether you're running Python in a terminal, bash shell on Windows, or even a virtualbox. Use `cd` in bash shell to shift to a directory where you want to place your files (say a university folder). Next, copy this directory onto your computer using
    ```bash
-   git clone https://github.com/davidgardenier/basic_linux_and_coding.git
+   git clone https://github.com/philuttley/basic_linux_and_coding.git
    ```
-4. If a student, run the following
+4. 	* If using the basic Python installation, you will need to install several additional Python modules:If a student, run the following:
    ```bash
    cd ./basic_linux_and_coding; sh SETUP.sh
    ```
@@ -43,6 +43,11 @@
    cd ./basic_linux_and_coding; sh SETUP.sh instructor
    ```
    If it's not working, read what the `SETUP.sh` script is acutally doing, and go through the lines step by step.
+
+	* If you are using a Python distribution, most packages will already be included, but you may need to install RISE so that you can display the lecture slides in presentation form via a Jupyter notebook. See the following to install: https://rise.readthedocs.io/en/maint-5.5/installation.html, 
+	e.g. for Anaconda use: conda install -c conda-forge rise
+and use the new button on the right of the Jupyter notebook toolbar to see a notebook with slides in the presentation format.
+
 
 ## Credits
 Based partially on material from
