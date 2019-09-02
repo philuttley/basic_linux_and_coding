@@ -52,6 +52,7 @@
 	
 and use the new button on the right of the Jupyter notebook toolbar to see a notebook with slides in the presentation format.
 
+* The file used in the first assignment can be found here: https://www.dropbox.com/s/5mo1kgmcqmu66fp/LOTAAS.tar.gz?dl=0
 
 ## Credits
 Based partially on material from
